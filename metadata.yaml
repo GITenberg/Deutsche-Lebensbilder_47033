@@ -1,4 +1,8 @@
 _repo: Deutsche-Lebensbilder_47033
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47033-h/images/cover.jpg
 creator:
   author:
     agent_name: Treitschke, Heinrich von
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25652
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Treitschke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47033#Deutsche-Lebensbilder
 gutenberg_issued: '2014-10-03'
 gutenberg_type: Text
 identifiers:
